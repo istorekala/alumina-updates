@@ -180,15 +180,6 @@ Package      : com.alumina.app
 
 ## تصاویر برنامه
 
-می‌توانید تصاویر برنامه را در مسیر زیر قرار دهید:
-
-```text
-assets/screenshots/
-```
-
-سپس این بخش را به README اضافه کنید:
-
-```html
 <p align="center">
   <img src="assets/screenshots/home.jpg" width="30%">
   <img src="assets/screenshots/overtime.jpg" width="30%">
