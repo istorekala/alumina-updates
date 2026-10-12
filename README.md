@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-3.2.5.1-ff7a18">
+  <img alt="Version" src="https://img.shields.io/badge/version-3.2.5.15-ff7a18">
   <img alt="Android" src="https://img.shields.io/badge/Android-6.0%2B-3DDC84">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-Android-7F52FF">
   <img alt="Status" src="https://img.shields.io/badge/status-active-success">
